@@ -12,7 +12,7 @@ virtualenv -p python3 index
 
 pip install flask flask-login flask-mysqldb flask-WTF
 
-holihhhh
+
 
 
 / validar que tenga 
